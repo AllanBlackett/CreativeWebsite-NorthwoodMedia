@@ -1,0 +1,92 @@
+
+/* 739px min 770px max */
+#contact {
+  text-align: center;
+}
+
+#team .who-img {
+display: none;
+}
+
+#team {
+text-align: center;
+}
+
+
+
+@media(max-width: 739px) {
+  /* Navbar Logo */
+  .navbar .logo {
+    float: none;
+    text-align: center;
+    padding: 10px 0px 1px 0px;
+  }
+  
+    .navbar ul {
+      list-style: none;
+      float: none;
+      text-align: center;
+      padding: 5px;
+    }
+    
+    .navbar ul li {
+      float: none;
+      display: inline-block;
+    } 
+    
+
+
+
+
+
+}  
+
+/* Smartphones */
+@media(max-width: 500px) {
+  /* Navbar Logo */
+  .navbar .logo {
+    float: none;
+    text-align: center;
+    padding: 10px 0px 1px 0px;
+  }
+
+  .navbar ul {
+    list-style: none;
+    float: none;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .navbar ul li {
+    float: none;
+    display: inline-block;
+  } 
+  
+  .navbar ul li a {
+    padding: 5px;
+    display: inline-block;
+
+  }
+  
+  /* Section: Portfolio */
+
+
+    /* Team Section  */
+
+    #team .who-img {
+      display: none;
+    }
+
+    #team {
+      text-align: center;
+    }
+
+    
+    #contact {
+        text-align: center;
+    }
+
+  }
+
+
+ 
