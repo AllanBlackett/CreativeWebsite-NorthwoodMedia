@@ -16,6 +16,29 @@ text-align: center;
 
 @media(max-width: 739px) {
   /* Navbar Logo */
+
+  /* Section: Showcase */
+
+  #showcase {
+    background-image: 
+      linear-gradient(
+        rgba(51, 51, 51, 0.7), 
+        rgba(51, 51, 51, 0.7)
+      ),
+      url('../img/showcase.jpg');
+      
+      height: 800px;
+      background-repeat: no-repeat;
+      background-position: 0px 0px;
+      background-attachment: fixed;
+      -webkit-background-size: calc(100vw) calc(100vh);
+      -moz-background-size: calc(100vw) calc(100vh);
+      -o-background-size: calc(100vw) calc(100vh);
+      background-size: calc(100vw) calc(100vh);
+
+  }
+  
+  
   .navbar .logo {
     float: none;
     text-align: center;
@@ -34,11 +57,6 @@ text-align: center;
       display: inline-block;
     } 
     
-
-
-
-
-
 }  
 
 /* Smartphones */
@@ -68,8 +86,25 @@ text-align: center;
 
   }
   
-  /* Section: Portfolio */
+  /* Section: Showcase */
 
+  #showcase {
+    background-image: 
+      linear-gradient(
+        rgba(51, 51, 51, 0.7), 
+        rgba(51, 51, 51, 0.7)
+      ),
+      url('../img/showcase.jpg');
+      
+      height: 800px;
+      background-repeat: no-repeat;
+      background-position: 0px 0px;
+      background-attachment: fixed;
+      -webkit-background-size: calc(100vw) calc(100vh);
+      -moz-background-size: calc(100vw) calc(100vh);
+      -o-background-size: calc(100vw) calc(100vh);
+      background-size: calc(100vw) calc(100vh);
+  }
 
     /* Team Section  */
 
