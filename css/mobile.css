@@ -25,6 +25,8 @@ text-align: center;
       ),
       url('../img/showcasemobile.jpg');
       
+      overflow: hidden; 
+
       height: 800px;
       background-repeat: no-repeat;
       background-position: 0px 0px;
@@ -94,6 +96,8 @@ text-align: center;
       ),
       url('../img/showcasemobile.jpg');
       
+      overflow: hidden; 
+
       height: 800px;
       background-repeat: no-repeat;
       background-position: 0px 0px;
