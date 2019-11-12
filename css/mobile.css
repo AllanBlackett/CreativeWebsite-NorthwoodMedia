@@ -15,42 +15,25 @@ text-align: center;
 
 
 @media(max-width: 739px) {
-  /* Navbar Logo */
-
-
-  html { 
-    background-image: 
-    linear-gradient(
-      rgba(51, 51, 51, 0.7), 
-      rgba(51, 51, 51, 0.7)
-    ),
-    url ('../img/showcase2.jpg') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-
-
   /* Section: Showcase */
 
   #showcase {
-    /* background-image: 
+    background-image: 
       linear-gradient(
         rgba(51, 51, 51, 0.7), 
         rgba(51, 51, 51, 0.7)
       ),
-      url('../img/showcase.jpg'); */
+      url('../img/showcasemobile.jpg');
       
       height: 800px;
-      /* background-repeat: no-repeat;
+      background-repeat: no-repeat;
       background-position: 0px 0px;
       background-attachment: fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
-      background-size: cover; */
-
+      background-size: cover;
+      
   }
   
   
@@ -76,20 +59,6 @@ text-align: center;
 
 /* Smartphones */
 @media(max-width: 500px) {
-  html { 
-    background-image: 
-    linear-gradient(
-      rgba(51, 51, 51, 0.7), 
-      rgba(51, 51, 51, 0.7)
-    ),
-    url ('../img/showcase2.jpg') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-
-
   /* Navbar Logo */
   .navbar .logo {
     float: none;
@@ -118,21 +87,21 @@ text-align: center;
   /* Section: Showcase */
 
   #showcase {
-    /* background-image: 
+    background-image: 
       linear-gradient(
         rgba(51, 51, 51, 0.7), 
         rgba(51, 51, 51, 0.7)
       ),
-      url('../img/showcase.jpg'); */
+      url('../img/showcasemobile.jpg');
       
       height: 800px;
-      /* background-repeat: no-repeat;
+      background-repeat: no-repeat;
       background-position: 0px 0px;
       background-attachment: fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
-      background-size: cover; */
+      background-size: cover;
   }
 
     /* Team Section  */
