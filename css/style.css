@@ -21,7 +21,6 @@
 
 
 .text-primary {
-  /* color: rgb(224, 191, 2); */
   color: #23a7ff;
 
 }
@@ -230,10 +229,10 @@ p {
     background-repeat: no-repeat;
       background-position: 0px 0px;
       background-attachment: fixed;
-      -webkit-background-size: calc(100vw) calc(100vh);
-      -moz-background-size: calc(100vw) calc(100vh);
-      -o-background-size: calc(100vw) calc(100vh);
-      background-size: cover;
+      -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 }
 
 
