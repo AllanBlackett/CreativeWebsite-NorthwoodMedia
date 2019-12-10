@@ -1,2 +1,2 @@
-# CreativeWebsite-NorthwoodMedia
+# Northwood Media
 Creative Website Template
